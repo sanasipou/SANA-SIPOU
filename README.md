@@ -89,29 +89,6 @@ const sana = {
 
 <br clear="all"/>
 
-<!-- ====================== PROJETS ====================== -->
-## 🚀 Projets Phares
-
-```bash
-$ git log --author="sana" --oneline --shortstat
-★ 156  state-municipality-maroc      dataset ouvert des régions & communes du Maroc
-★  68  quran-lake                    plateforme moderne de contenu coranique
-★  59  ma-municipality-api           API REST pour les données municipales marocaines
-★  55  awesome-hidden-gems           outils open-source sous-estimés que les pros adorent
-★  27  tensor-svg-loaders            loaders SVG animés ultra-légers
-```
-
-<!-- ====================== STATS ====================== -->
-## 📊 Statistiques GitHub
-
-```sql
-SELECT focus, commits, café
-FROM   sana.routine_quotidienne
-WHERE  mode = 'développement'
-ORDER  BY régularité DESC;
--- → livre du code propre, un commit à la fois ☕
-```
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=sana-sipou&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1" alt="streak"/>
@@ -148,16 +125,16 @@ ORDER  BY régularité DESC;
 ```bash
 $ echo "Construisons quelque chose de formidable ensemble 🚀"
 $ whoami
-> sana-sipou · ouverte aux collaborations, à l'open-source & aux idées SaaS innovantes
+> Sana Sipou · ouverte aux collaborations, à l'open-source & aux idées SaaS innovantes
 ```
 
 <div align="center">
 
 Si mon travail vous plaît, pensez à me suivre et à mettre une ⭐ sur les projets qui vous sont utiles !
 
-<a href="https://www.linkedin.com/in/sana-sipou"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.youtube.com/@sanasipou"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://medium.com/@sana-sipou"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://www.linkedin.com/in/sana-sipou"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.youtube.com/@1724coding"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://github.com/sana-sipou"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=120&section=footer" alt="footer"/>
 
