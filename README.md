@@ -3,7 +3,7 @@
 
 # Sana Sipou
 
-#### `Ingénieure Full-Stack` · `DevOps` · `Créatrice de Contenu`
+#### `Développeur Full-Stack` · `Mobile` . `DevOps` ·  `Intelligence artificielle (IA)` . `Créatrice de Contenu`
 
 <img src="https://img.shields.io/badge/-Développement%20de%20plateformes%20web%20scalables%20avec%20une%20architecture%20propre-0d1117?style=flat-square&labelColor=0d1117&color=6366f1" alt="tagline"/>
 
@@ -11,8 +11,8 @@
 
 <p>
   <a href="https://www.linkedin.com/in/sana-sipou"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/@sanasipou"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://medium.com/@sana-sipou"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://www.youtube.com/@1724coding"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://github.com/sana-sipou"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 </div>
@@ -22,19 +22,18 @@
 
 ```ts
 const sana = {
-  role:      "Ingénieure Full-Stack",
+  role:      "Développeur Full-Stack",
   location:  "🇲🇦 Maroc",
   focus:     ["Plateformes web scalables", "Architecture propre", "Code prêt pour la production"],
-  passions:  ["DevOps", "IA", "Open Source", "Création de contenu"],
+  passions:  ["Full stack", "IA", "Open Source", "Création de contenu"],
   crée:      "Tutoriels dev & analyses approfondies sur YouTube 🎥",
   actuel:    "Livraison de projets personnels & curation de gems open-source 💎",
   devise:    "Construire proprement, livrer vite, scaler intelligemment.",
 };
 ```
 
-- 💎 Mainteneure de [**awesome-hidden-gems**](https://github.com/sana-sipou/awesome-hidden-gems) — outils open-source sous-estimés que les pros adorent.
-- 📺 Je partage mes apprentissages sur YouTube [**@sanasipou**](https://www.youtube.com/@sanasipou).
-- 💬 Posez-moi des questions sur **TypeScript, Node.js, React, Next.js & DevOps**.
+- 📺 Je partage mes apprentissages sur YouTube [**@1724coding**](https://www.youtube.com/@1724coding).
+- 💬 Posez-moi des questions sur **React js, Node.js, Vue js, Next.js, IA, Laravel, Mysql, MongoDB, PHP & DevOps**.
 
 <!-- ====================== STACK TECHNIQUE ====================== -->
 ## 🛠️ Stack Technique
@@ -43,13 +42,13 @@ const sana = {
   <tr>
     <td align="center" width="120"><b>Langages</b></td>
     <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python&theme=dark" alt="langages"/></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,css,html,python&theme=dark" alt="langages"/></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="120"><b>Frontend</b></td>
     <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,remix,astro,tailwind&theme=dark" alt="frontend"/></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,remix,astro,alpinejs,tailwind&theme=dark" alt="frontend"/></a>
     </td>
   </tr>
   <tr>
