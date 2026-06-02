@@ -42,25 +42,31 @@ const sana = {
   <tr>
     <td align="center" width="120"><b>Langages</b></td>
     <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,css,html,python&theme=dark" alt="langages"/></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,css,html,vite,python&theme=dark" alt="langages"/></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="120"><b>Frontend</b></td>
     <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,remix,astro,alpinejs,tailwind&theme=dark" alt="frontend"/></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,remix,astro,redux,alpinejs,bootstrap,tailwind&theme=dark" alt="frontend"/></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="120"><b>Backend</b></td>
     <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,bun,nestjs,express,prisma&theme=dark" alt="backend"/></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,bun,nestjs,express,laravel,php,prisma&theme=dark" alt="backend"/></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="120"><b>Bases de Données</b></td>
     <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" alt="bases de données"/></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis&theme=dark" alt="bases de données"/></a>
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="120"><b>Mobile</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,android&theme=dark" alt="mobile"/></a>
     </td>
   </tr>
   <tr>
