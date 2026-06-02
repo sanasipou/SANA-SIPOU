@@ -1,7 +1,7 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4081,100:CE93D8&height=150&section=header&text=Sana%20Sipou&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Développeuse%20•%20Créatrice%20•%20Innovatrice&descAlignY=58&descSize=16" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4081,100:CE93D8&height=150&section=header&text=SANA%20SIPOU&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Développeuse%20•%20Créatrice%20•%20Innovatrice&descAlignY=58&descSize=16" alt="header"/>
 
 #### `💻 Développeuse Full-Stack` · `📱 Mobile` · `⚙️ DevOps` · `🤖 Intelligence Artificielle` · `🎬 Créatrice de Contenu`
 
