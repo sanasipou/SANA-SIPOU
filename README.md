@@ -147,7 +147,7 @@ const sana = {
 ```bash
 $ echo "Construisons quelque chose de formidable ensemble 🚀"
 $ whoami
-> Sana Sipou · ouverte aux collaborations, à l'open-source & aux idées SaaS innovantes
+> SANA SIPOU · ouverte aux collaborations, à l'open-source & aux idées SaaS innovantes
 ```
 
 <div align="center">
