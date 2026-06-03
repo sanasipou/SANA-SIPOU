@@ -95,24 +95,6 @@ const sana = {
 </table>
 
 <br clear="all"/>
-
----
-
-<!-- ====================== STATS ====================== -->
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sana-sipou&show_icons=true&theme=radical&hide_border=true&title_color=FF4081&icon_color=CE93D8&text_color=ffffff&bg_color=0d1117" alt="stats"/>
-
-<img src="https://streak-stats.demolab.com?user=sana-sipou&theme=radical&hide_border=true&background=0d1117&ring=FF4081&fire=CE93D8&currStreakLabel=FF4081" alt="streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sana-sipou&layout=compact&theme=radical&hide_border=true&title_color=FF4081&text_color=ffffff&bg_color=0d1117" alt="langues"/>
-
-</div>
-
----
-
 <!-- ====================== CONTRIBUTIONS ====================== -->
 ## 🐍 Graphe de Contributions
 
