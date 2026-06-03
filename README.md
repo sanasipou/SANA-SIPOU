@@ -95,6 +95,7 @@ const sana = {
 </table>
 
 <br clear="all"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true)
 <!-- ====================== CONTRIBUTIONS ====================== -->
 🐍 Graphe de Contributions
 
