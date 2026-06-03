@@ -96,7 +96,7 @@ const sana = {
 
 <br clear="all"/>
 <!-- ====================== CONTRIBUTIONS ====================== -->
-## 🐍 Graphe de Contributions
+🐍 Graphe de Contributions
 
 <div align="center">
 
