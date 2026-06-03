@@ -95,7 +95,7 @@ const sana = {
 </table>
 
 <br clear="all"/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true)
+
 <!-- ====================== CONTRIBUTIONS ====================== -->
 🐍 Graphe de Contributions
 
@@ -110,6 +110,8 @@ const sana = {
 </div>
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact)
 
 <!-- ====================== CITATION ====================== -->
 <div align="center">
