@@ -110,8 +110,20 @@ const sana = {
 </div>
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanasipou&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanasipou&layout=compact)
+<table>
+<tr>
+<td>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanasipou&show_icons=true&theme=tokyonight)
+
+</td>
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanasipou&layout=compact&theme=tokyonight)
+
+</td>
+</tr>
+</table>
 
 <!-- ====================== CITATION ====================== -->
 <div align="center">
